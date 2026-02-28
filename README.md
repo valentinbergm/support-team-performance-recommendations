@@ -8,8 +8,7 @@ Analysis of support performance for a dual-service marketplace. Identified perfo
 
 Poor request handling is being driven by a critical failure to meet the SLAs. The data shows that response times are significantly longer than the internal goals.
 
-![Visualization for Section 1](images/1.jpeg)
-
+<img src="images/1.jpeg" alt="Visualization for Section 1" width="750" height="750">
 **Key Findings:**
 
 - **Critical Delays:** **47%** of all requests make customers wait **more than 2 hours** before an agent starts working on them. This represents a severe service failure for nearly half of the received requests.
@@ -24,7 +23,7 @@ Poor request handling is being driven by a critical failure to meet the SLAs. Th
 
 The root cause of the long wait times might not be a shortage of staff, but a misalignment between the work schedules and the flow of customer requests.
 
-![Visualization for Section 2](images/2.jpeg)
+<img src="images/2.jpeg" alt="Visualization for Section 2" width="750" height="500">
 
 **Key Findings:**
 
@@ -39,7 +38,7 @@ The root cause of the long wait times might not be a shortage of staff, but a mi
 
 Because there is a failure to handle requests during peak hours, a massive backlog accumulates. This creates a vicious delay cycle that is most visible during the night.
 
-![Visualization for Section 3](images/3.jpeg)
+<img src="images/3.jpeg" alt="Visualization for Section 3" width="750" height="500">
 
 **Key Findings:**
 
@@ -55,9 +54,9 @@ Because there is a failure to handle requests during peak hours, a massive backl
 
 Segmenting performance by team reveals that their different types of work may require different KPIs
 
-![Visualization for Section 4 - Part 1](images/4.jpeg)
-![Visualization for Section 4 - Part 2](images/5.jpeg)
-![Visualization for Section 4 - Part 3](images/6.jpeg)
+<img src="images/4.jpeg" alt="Visualization for Section 4 - Part 1" width="750" height="500">
+<img src="images/5.jpeg" alt="Visualization for Section 4 - Part 2" width="750" height="500">
+<img src="images/6.jpeg" alt="Visualization for Section 4 - Part 3" width="750" height="500">
 
 **Key Findings:**
 
